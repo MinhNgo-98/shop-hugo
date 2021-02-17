@@ -3,10 +3,7 @@ title = "ASEAN"
 baseURL = "https://asean-shop.netlify.app/"
 paginate = 10
 author = "Minh"
-
-[build]
-  command = "hugo"
-  publish = "public"
+publishDir = "public"
 
 [permalinks]
   post = "/:slug/"
