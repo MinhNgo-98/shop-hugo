@@ -385,14 +385,18 @@ body.dark .logo img {
     filter: brightness(100%);
 }
 
-.card-grid {
-    margin-top: 2rem;
+.row {
+    margin-top: 1rem;
 }
 
 .card {
-    height: 100%;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
     border: none;
+    width: 100%;
+}
+
+.card-body {
+    height: 100%;
 }
 
 .dark .card {
@@ -407,7 +411,7 @@ body.dark .logo img {
 .card-image {
     width: 100%;
     height: 20vh;
-    object-fit: cover;
+    object-fit: contain;
 }
 
 .card-price {
@@ -415,10 +419,6 @@ body.dark .logo img {
     font-weight: 800;
     color: #8167a9;
     margin: 0;
-}
-
-.card-body {
-    position: relative;
 }
 
 .card-btn {
@@ -595,4 +595,68 @@ body.dark .card:hover {
     color: #0094bc;
     background: #fff;
     border-color: #0094bc;
+}
+
+.post-list {
+    margin-top: 2rem;
+    padding: 0;
+}
+
+.post-list a {
+    color: black;
+}
+
+.post-item {
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+
+.post-image {
+    height: 100%;
+    width: 1000px;
+}
+
+.post-description {
+    height: 100%;
+    padding: 1rem 2.5rem;
+}
+
+.imagen-1 {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: 900;
+}
+
+.author {
+    display: flex;
+    flex-direction: row;
+}
+
+.datos {
+    margin: 5px 20px;
+}
+
+.img-2 {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.p-2 {
+    font-size: 15px;
 }
