@@ -1,6 +1,6 @@
 languageCode = "de-de"
 title = "ASEAN"
-baseURL = "https://asean-shop.netlify.app/"
+baseURL = ""
 paginate = 10
 author = "Minh"
 
