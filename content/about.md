@@ -1,7 +1,7 @@
 ---
 title: "Über mich"
 date: 2021-02-17T00:52:59+01:00
-draft: true
+
 ---
 
 Ich bin Minh, ein 22 Jähriger Medieninformatik-Student, der zur Zeit in Quedlinburg lebt. Derzeit arbeite ich an meiner Bachelorarbeit, welche sich mit statischen Websitegeneratoren befasst.
