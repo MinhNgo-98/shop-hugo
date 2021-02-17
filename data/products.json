@@ -1,0 +1,129 @@
+[{
+        "id": "1",
+        "name": "Aloe Vera Saft",
+        "price": 2.99,
+        "image": "/images/products/aloe_vera.jpg",
+        "description": "Premium Direktsaft mit 1.200mg Aloverose",
+        "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+        "id": "2",
+        "name": "Kokosnusswasser",
+        "description": "Cocoxim-Kokoswasser wird in Vietnam hergestellt. Eine Packung Kokoswasser enthält 1000 ml und reicht für 4 Standardgläser mit 250 ml.",
+        "price": 2.99,
+        "image": "/images/products/coconut_water.jpg",
+        "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+        "id": "3",
+        "name": "Dim Sum Sauce",
+        "description": "Die perfekte scharf-pikante Sauce zum Dippen von deinen Dim Sum. Die Sauce eignet sich auch ideal zum Kochen.",
+        "price": 1.99,
+        "image": "/images/products/dim_sum_sauce.jpg",
+        "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+        "id": "4",
+        "name": "Fischsauce",
+        "description": "Fischsauce ist ein fester Bestandteil der thailändischen und vietnamesischen Küche, wenn es ums würzen geht und wird in jedem aisiatischen Haushalt zu finden sein.",
+        "price": 2.59,
+        "image": "/images/products/fish_sauce.jpg",
+        "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+        "id": "5",
+        "name": "Grüner Tee",
+        "description": "Anregender Bio-Grüntee mit Ingwer und Zitronengras",
+        "price": 4.99,
+        "image": "/images/products/green_tea.jpg",
+        "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+        "id": "6",
+        "name": "Nong Shim Instantnudeln",
+        "description": "Diese leckeren koreanischen Ramen sind schnell und einfach zubereitet und haben den typisch koreanisch-scharfen Geschmack. ",
+        "price": 0.99,
+        "image": "/images/products/instant_noodles_1.jpg",
+        "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+        "id": "7",
+        "name": "Indomie Instantnudeln",
+        "description": "Die ruckzuck fertigen Instantnudeln mit Mi Goreng Geschmack sind die perfekte Mahlzeit für zwischendurch und wenn es mal...",
+        "price": 0.59,
+        "image": "/images/products/instant_noodles_2.jpg",
+        "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+        "id": "8",
+        "name": "Cup Noodles Nudelsuppe",
+        "description": "Nissin Cup Noodles Spicy Einfach kaufen, zubereiten und genießen. Die NISSIN CUP NOODLES gibt es als Instant-Leckerbissen in ...",
+        "price": 0.99,
+        "image": "/images/products/instant_noodles_3.jpg",
+        "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+        "id": "9",
+        "name": "Bibigo Kimchi",
+        "description": "Bibigo Kimchi wird mit einer guten Zutat hergestellt, die den Geschmack der Natur respektiert und köstliche und gesunde Kimchi ...",
+        "price": 4.59,
+        "image": "/images/products/kimchi.jpg",
+        "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+        "id": "10",
+        "name": "Mochi Eis",
+        "description": "Dieser kleine Reiskuchen aus Klebereis ist eine japanische Süßigkeit, auch Mochi genannt. Zur Herstellung wir grüner Tee ...",
+        "price": 2.59,
+        "image": "/images/products/mochi_ice.jpg",
+        "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+        "id": "11",
+        "name": "Olong Tee",
+        "description": "Oolong ist einer der ursprünglichsten Oolong Tees aus China. Der Tie Guan Yin Oolong Tee zeichnet sich durch ...",
+        "price": 5.99,
+        "image": "/images/products/olong_tea.jpg",
+        "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+        "id": "12",
+        "name": "Samyang Sauce",
+        "description": "Samyang Hot Chicken Flavor Sauce 200g (HALAL) von Samyang scharfe Sauce Hühnchengeschmack Samyang Buldak Hot Chicken Geschmack Scharfe Chilisauce (HALAL)",
+        "price": 5.99,
+        "image": "/images/products/samyang.png",
+        "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+        "id": "13",
+        "name": "Soju",
+        "description": "Wodka ist auch in unseren Breitengraden ein bekanntes und beliebtes Getränk. Allerdings ist bei uns eher der russische Wodka ...",
+        "price": 3.59,
+        "image": "/images/products/soju.jpg",
+        "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+        "id": "14",
+        "name": "Sriracha",
+        "description": "Chilisauce SrirachaSriracha, hergestellt aus sonnengereiften Chilis, kann in Suppen und Saucen, über Pasta und auf Pizzen, Hot ...",
+        "price": 3.99,
+        "image": "/images/products/sriracha.jpg",
+        "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+        "id": "15",
+        "name": "Rote Curry Paste",
+        "description": "Eine thailändische rote Curry Paste, hervorragende Zutat für würzige Curry- Gerichte mit Fleisch, Fisch oder Gemüse ...",
+        "price": 2.99,
+        "image": "/images/products/thai_curry_paste.jpg",
+        "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+        "id": "16",
+        "name": "Weißer Tee",
+        "description": "Der milde Genuss weißen Tees! TEEKANNE Weißer Tee Mango-Zitrone ist ein besonders milder Genuss mit dem erfrischend-fruchtigen ...",
+        "price": 1.99,
+        "image": "/images/products/white_tea.jpg",
+        "url": "http://snipcart-hugo.netlify.com"
+    }
+]

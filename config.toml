@@ -1,3 +1,29 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "de-de"
+title = "ASEAN"
+baseURL = "https://asean-shop.netlify.app"
+paginate = 10
+author = "Minh"
+
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Startseite"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "Über mich"
+    url = "/about/"
+    weight = 3
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    identifier = "contact"
+    name = "Kontakt"
+    url = "/contact/"
+    weight = 4
+

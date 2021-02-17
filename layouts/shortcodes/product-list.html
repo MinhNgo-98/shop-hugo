@@ -1,0 +1,4 @@
+{{ $products := getJSON "/data/products.json" }}
+<div class="row">
+    {{.Inner}} {{ range $products }} {{ partial "product.html" . }} {{ end }}
+</div>

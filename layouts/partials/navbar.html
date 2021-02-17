@@ -1,0 +1,36 @@
+<nav class="navigation-wrap bg-light start-header start-style">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav class="navbar navbar-expand-md navbar-light">
+                    <a class="navbar-brand"><img src="/images/logo.png" alt="" /></a>
+
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        {{ $currentPage := . }}
+                        <ul class="navbar-nav ml-auto py-4 py-md-0">
+                            {{ range .Site.Menus.main.ByWeight }}
+                            <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+                                <a class="nav-link" href="{{ .URL | relURL }}">{{ .Name }}</a>
+                            </li>
+                            {{ end }}
+                            <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-5 snipcart-summary">
+                                <a href="#" class="nav-link snipcart-checkout">
+                  Warenkorb (<span class="snipcart-total-items">0</span>)
+                </a>
+                            </li>
+                            <li class="switch-button pl-4 pl-md-0 ml-0 ml-md-5">
+                                <div id="switch">
+                                    <div id="circle"></div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+</nav>
