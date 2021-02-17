@@ -4,6 +4,10 @@ baseURL = "https://asean-shop.netlify.app/"
 paginate = 10
 author = "Minh"
 
+[build]
+  command = "hugo"
+  publish = "public"
+
 [permalinks]
   post = "/:slug/"
   page = "/:slug/"
