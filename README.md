@@ -1,7 +1,7 @@
 # Online-Shop mit Hugo
 
-#Starten des lokalen Servers:
+Starten des lokalen Servers:
 hugo server
 
-#Bauen der Website:
+Bauen der Website:
 hugo
