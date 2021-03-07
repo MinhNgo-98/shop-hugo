@@ -1,4 +1,4 @@
 # Online-Shop mit Hugo
 
-### Server lokal starten:\
+### Server lokal starten:
 `hugo server`
