@@ -1,4 +1,7 @@
 # Online-Shop mit Hugo
 
-### Server lokal starten:
-`hugo server`
+## Link zur Website
+https://asean-shop.netlify.app/
+
+## Server lokal starten:
+Im Terminal: `hugo server`
